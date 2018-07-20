@@ -18,7 +18,7 @@ Creating a **Calculator** application with the **Express.js Framework**, from se
 
 *To start the app, first download all necessary packages.*
 ## Screen previews of my design:
-![My Design](https://github.com/OgnyanDD/Software-Technologies/blob/master/TF11.%20JAVASCRIPT%20EXPRESSJS%20OVERVIEW%20-%20EX%20(CALCULATOR)/pic's/MyDesign.png)
+![My Design](https://github.com/OgnyanDD/Web-Calculator/blob/master/pic's/MyDesign.png)
 <br/>
 ## Screen preview of default design:
-![Default Design](https://github.com/OgnyanDD/Software-Technologies/blob/master/TF11.%20JAVASCRIPT%20EXPRESSJS%20OVERVIEW%20-%20EX%20(CALCULATOR)/pic's/DefaultDesign.png)
+![Default Design](https://github.com/OgnyanDD/Web-Calculator/blob/master/pic's/DefaultDesign.png)
