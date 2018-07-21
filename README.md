@@ -19,7 +19,7 @@ Creating a **Calculator** application with the **Express.js Framework**, from se
 **Follow these steps to run the application:**
 - Install node.js (if you not have it);
 - Open CMD terminal in project folder;
-- Write "npm install" to take the dependeces;
+- Write *"npm install"* to take the dependeces;<br/>
 
 ## Screen previews of my design:
 ![My Design](https://github.com/OgnyanDD/Web-Calculator/blob/master/pic's/MyDesign.png)
