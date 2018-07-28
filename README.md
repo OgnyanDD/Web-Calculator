@@ -21,6 +21,9 @@ Creating a **Calculator** application with the **Express.js Framework**, from se
 - Open CMD terminal in project folder;
 - Write *"npm install"* to take the dependeces;<br/>
 
+**Other variations of the calculator:**
+* [**PHP Calculator with Symfony Framework**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF17.%20PHP%20MVC%20AND%20SYMFONY%20OVERVIEW%20-%20EX%20(CALCULATOR))
+
 ## Screen previews of my design:
 ![My Design](https://github.com/OgnyanDD/Web-Calculator/blob/master/pic's/MyDesign.png)
 <br/>
