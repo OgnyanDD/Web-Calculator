@@ -24,6 +24,7 @@ Creating a **Calculator** application with the **Express.js Framework**, from se
 **Other variations of the calculator:**
 * [**PHP Calculator with Symfony Framework**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF17.%20PHP%20MVC%20AND%20SYMFONY%20OVERVIEW%20-%20EX%20(CALCULATOR))
 * [**JAVA Calculator with Spring Framework**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF23.%20JAVA%20BASIC%20WEB%20-%20EX%20(CALCULATOR))
+* [**C# Calculator with ASP.NET Core Framework**](https://github.com/OgnyanDD/Software-Technologies/tree/master/TF27.%20CSHARP%20ASP.NET%20MVC%20OVERVIEW.NET%20MVC%20OVERVIEW%20-%20EXERCISES/01.%20CSHARP%20CALCULATOR)
 
 ## Screen previews of my design:
 ![My Design](https://github.com/OgnyanDD/Web-Calculator/blob/master/pic's/MyDesign.png)
